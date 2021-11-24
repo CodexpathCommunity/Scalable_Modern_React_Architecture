@@ -1,4 +1,4 @@
-# Typed_React_Scalable_Architecture 🛡️ ⚛️
+# Scalable_Modern_React_Architecture 🛡️ ⚛️
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/CodexpathCommunity/Typed_React_Scalable_Architecture)
 
