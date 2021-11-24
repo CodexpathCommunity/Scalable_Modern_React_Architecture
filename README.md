@@ -1,6 +1,6 @@
 # Typed_React_Scalable_Architecture 🛡️ ⚛️
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/CodexpathCommunity/Typed_React_Scalable_Architecture)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/CodexpathCommunity/Scalable_Modern_React_Architecture)
 
 A simple, scalable, and powerful architecture for building production ready React applications.
 
